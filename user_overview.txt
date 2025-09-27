@@ -1,0 +1,16 @@
+Total users       : 2
+Total tasks       : 5
+
+User: admin
+  Tasks assigned     : 3
+  % of all tasks     : 60.00
+  % complete         : 0.00
+  % incomplete       : 100.00
+  % overdue          : 66.67
+
+User: lungelo
+  Tasks assigned     : 2
+  % of all tasks     : 40.00
+  % complete         : 0.00
+  % incomplete       : 100.00
+  % overdue          : 50.00
